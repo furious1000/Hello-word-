@@ -1,2 +1,2 @@
 # Hello-word-
-uyyyyy
+print(123)
